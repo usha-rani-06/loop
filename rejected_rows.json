@@ -1,0 +1,322 @@
+[
+  {
+    "age": "",
+    "fee_inr": "1683",
+    "prior_no_shows": "3",
+    "distance_km": "30.36",
+    "booking_channel": "Mobile App",
+    "scheduled_date": "2023-02-11 04:00:00",
+    "appointment_date": "2023-02-16",
+    "no_show": "No"
+  },
+  {
+    "age": "",
+    "fee_inr": "631",
+    "prior_no_shows": "0",
+    "distance_km": "6.55",
+    "booking_channel": "mobile app",
+    "scheduled_date": "2023-02-11 05:00:00",
+    "appointment_date": "2023-02-20",
+    "no_show": "No"
+  },
+  {
+    "age": "",
+    "fee_inr": "638",
+    "prior_no_shows": "1",
+    "distance_km": "33.74",
+    "booking_channel": "Call Center",
+    "scheduled_date": "2023-02-11 06:00:00",
+    "appointment_date": "2023-02-16",
+    "no_show": "No"
+  },
+  {
+    "age": "",
+    "fee_inr": "1646",
+    "prior_no_shows": "1",
+    "distance_km": "26.66",
+    "booking_channel": "Call Center",
+    "scheduled_date": "2023-02-11 07:00:00",
+    "appointment_date": "2023-02-25",
+    "no_show": "Yes"
+  },
+  {
+    "age": "",
+    "fee_inr": "1414",
+    "prior_no_shows": "5",
+    "distance_km": "25.79",
+    "booking_channel": "Mobile App",
+    "scheduled_date": "2023-02-11 08:00:00",
+    "appointment_date": "2023-02-24",
+    "no_show": "Yes"
+  },
+  {
+    "age": "",
+    "fee_inr": "829",
+    "prior_no_shows": "4",
+    "distance_km": "44.83",
+    "booking_channel": "Website",
+    "scheduled_date": "2023-02-11 09:00:00",
+    "appointment_date": "2023-02-14",
+    "no_show": "No"
+  },
+  {
+    "age": "",
+    "fee_inr": "1777",
+    "prior_no_shows": "0",
+    "distance_km": "14.53",
+    "booking_channel": "Mobile App",
+    "scheduled_date": "2023-02-11 10:00:00",
+    "appointment_date": "2023-02-21",
+    "no_show": "No"
+  },
+  {
+    "age": "",
+    "fee_inr": "726",
+    "prior_no_shows": "2",
+    "distance_km": "27.64",
+    "booking_channel": "Mobile App",
+    "scheduled_date": "2023-02-11 11:00:00",
+    "appointment_date": "2023-02-24",
+    "no_show": "Yes"
+  },
+  {
+    "age": "",
+    "fee_inr": "731",
+    "prior_no_shows": "8",
+    "distance_km": "2.42",
+    "booking_channel": "Walk-in",
+    "scheduled_date": "2023-02-11 12:00:00",
+    "appointment_date": "2023-02-18",
+    "no_show": "Yes"
+  },
+  {
+    "age": "",
+    "fee_inr": "1299",
+    "prior_no_shows": "10",
+    "distance_km": "2.72",
+    "booking_channel": "Mobile App",
+    "scheduled_date": "2023-02-11 13:00:00",
+    "appointment_date": "2023-02-13",
+    "no_show": "No"
+  },
+  {
+    "age": "",
+    "fee_inr": "1379",
+    "prior_no_shows": "6",
+    "distance_km": "4.41",
+    "booking_channel": "",
+    "scheduled_date": "2023-02-11 14:00:00",
+    "appointment_date": "2023-02-20",
+    "no_show": "Yes"
+  },
+  {
+    "age": "",
+    "fee_inr": "345",
+    "prior_no_shows": "0",
+    "distance_km": "16.75",
+    "booking_channel": "Website",
+    "scheduled_date": "2023-02-11 15:00:00",
+    "appointment_date": "2023-02-12",
+    "no_show": "No"
+  },
+  {
+    "age": "15.0",
+    "fee_inr": "1544",
+    "prior_no_shows": "6",
+    "distance_km": "",
+    "booking_channel": "Mobile App",
+    "scheduled_date": "2023-02-11 16:00:00",
+    "appointment_date": "2023-02-24",
+    "no_show": "No"
+  },
+  {
+    "age": "7.0",
+    "fee_inr": "603",
+    "prior_no_shows": "3",
+    "distance_km": "",
+    "booking_channel": "Website",
+    "scheduled_date": "2023-02-11 17:00:00",
+    "appointment_date": "2023-02-13",
+    "no_show": "No"
+  },
+  {
+    "age": "44.0",
+    "fee_inr": "177",
+    "prior_no_shows": "2",
+    "distance_km": "",
+    "booking_channel": "WEBSITE",
+    "scheduled_date": "2023-02-11 18:00:00",
+    "appointment_date": "2023-02-14",
+    "no_show": "Yes"
+  },
+  {
+    "age": "16.0",
+    "fee_inr": "264",
+    "prior_no_shows": "5",
+    "distance_km": "",
+    "booking_channel": "Call Center",
+    "scheduled_date": "2023-02-11 19:00:00",
+    "appointment_date": "2023-02-22",
+    "no_show": "Yes"
+  },
+  {
+    "age": "46.0",
+    "fee_inr": "1016",
+    "prior_no_shows": "7",
+    "distance_km": "",
+    "booking_channel": "mobile app",
+    "scheduled_date": "2023-02-11 20:00:00",
+    "appointment_date": "2023-02-15",
+    "no_show": "No"
+  },
+  {
+    "age": "86.0",
+    "fee_inr": "331",
+    "prior_no_shows": "7",
+    "distance_km": "",
+    "booking_channel": "Call Center",
+    "scheduled_date": "2023-02-11 21:00:00",
+    "appointment_date": "2023-02-12",
+    "no_show": "No"
+  },
+  {
+    "age": "37.0",
+    "fee_inr": "1147",
+    "prior_no_shows": "8",
+    "distance_km": "",
+    "booking_channel": "Call Center",
+    "scheduled_date": "2023-02-11 22:00:00",
+    "appointment_date": "2023-02-11",
+    "no_show": "No"
+  },
+  {
+    "age": "20.0",
+    "fee_inr": "1414",
+    "prior_no_shows": "6",
+    "distance_km": "",
+    "booking_channel": "mobile app",
+    "scheduled_date": "2023-02-11 23:00:00",
+    "appointment_date": "2023-02-23",
+    "no_show": "Yes"
+  },
+  {
+    "age": "2.0",
+    "fee_inr": "461",
+    "prior_no_shows": "5",
+    "distance_km": "",
+    "booking_channel": "Mobile App",
+    "scheduled_date": "2023-02-12 00:00:00",
+    "appointment_date": "2023-02-23",
+    "no_show": "No"
+  },
+  {
+    "age": "8.0",
+    "fee_inr": "1840",
+    "prior_no_shows": "1",
+    "distance_km": "",
+    "booking_channel": "Website",
+    "scheduled_date": "2023-02-12 01:00:00",
+    "appointment_date": "2023-02-14",
+    "no_show": "No"
+  },
+  {
+    "age": "55.0",
+    "fee_inr": "1699",
+    "prior_no_shows": "0",
+    "distance_km": "",
+    "booking_channel": "Mobile App",
+    "scheduled_date": "2023-02-12 02:00:00",
+    "appointment_date": "2023-02-26",
+    "no_show": "No"
+  },
+  {
+    "age": "37.0",
+    "fee_inr": "193",
+    "prior_no_shows": "0",
+    "distance_km": "",
+    "booking_channel": "",
+    "scheduled_date": "2023-02-12 03:00:00",
+    "appointment_date": "2023-02-15",
+    "no_show": "No"
+  },
+  {
+    "age": "48.0",
+    "fee_inr": "867",
+    "prior_no_shows": "3",
+    "distance_km": "",
+    "booking_channel": "Walk-in",
+    "scheduled_date": "2023-02-12 04:00:00",
+    "appointment_date": "2023-02-14",
+    "no_show": "No"
+  },
+  {
+    "age": "27.0",
+    "fee_inr": "124",
+    "prior_no_shows": "7",
+    "distance_km": "",
+    "booking_channel": "Mobile App",
+    "scheduled_date": "2023-02-12 05:00:00",
+    "appointment_date": "2023-02-24",
+    "no_show": "No"
+  },
+  {
+    "age": "25.0",
+    "fee_inr": "1022",
+    "prior_no_shows": "3",
+    "distance_km": "",
+    "booking_channel": "Call Center",
+    "scheduled_date": "2023-02-12 06:00:00",
+    "appointment_date": "2023-02-21",
+    "no_show": "Yes"
+  },
+  {
+    "age": "66.0",
+    "fee_inr": "1001",
+    "prior_no_shows": "9",
+    "distance_km": "",
+    "booking_channel": "Walk-in",
+    "scheduled_date": "2023-02-12 07:00:00",
+    "appointment_date": "2023-02-23",
+    "no_show": "No"
+  },
+  {
+    "age": "72.0",
+    "fee_inr": "365",
+    "prior_no_shows": "9",
+    "distance_km": "",
+    "booking_channel": "Mobile App",
+    "scheduled_date": "2023-02-12 08:00:00",
+    "appointment_date": "2023-02-25",
+    "no_show": "Yes"
+  },
+  {
+    "age": "24.0",
+    "fee_inr": "1524",
+    "prior_no_shows": "8",
+    "distance_km": "",
+    "booking_channel": "Website",
+    "scheduled_date": "2023-02-12 09:00:00",
+    "appointment_date": "2023-02-22",
+    "no_show": "No"
+  },
+  {
+    "age": "88.0",
+    "fee_inr": "1356",
+    "prior_no_shows": "8",
+    "distance_km": "",
+    "booking_channel": "Walk-in",
+    "scheduled_date": "2023-02-12 10:00:00",
+    "appointment_date": "2023-02-13",
+    "no_show": "No"
+  },
+  {
+    "age": "84.0",
+    "fee_inr": "1019",
+    "prior_no_shows": "6",
+    "distance_km": "",
+    "booking_channel": "Mobile App",
+    "scheduled_date": "2023-02-12 11:00:00",
+    "appointment_date": "2023-02-18",
+    "no_show": "Yes"
+  }
+]
